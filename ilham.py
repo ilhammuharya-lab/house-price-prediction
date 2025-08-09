@@ -135,7 +135,7 @@ def clear_cache():
 def load_data():
     try:
         # Ganti dengan path file yang benar
-        data_path = "./data/train.csv" 
+        data_path = "train.csv" 
         
         # Baca dengan parameter tambahan untuk handle formatting
         data = pd.read_csv(
