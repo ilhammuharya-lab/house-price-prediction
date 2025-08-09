@@ -208,7 +208,7 @@ if options == "👨 maker profile":
         <p><strong>Phone:</strong> +62 815 1724 9427</p>
         <p><strong>Location:</strong> Tangerang Metropolitan Area</p>
         <p><strong>LinkedIn:</strong> www.linkedin.com/in/ilham-muharya-ilham/</p>
-        <p><strong>GitHub:</strong> github.com/ilhammuharya</p>
+        <p><strong>GitHub:</strong> github.com/ilhammuharya-lab</p>
         """), unsafe_allow_html=True)
     
     st.markdown(create_section_header("Professional Summary"), unsafe_allow_html=True)
