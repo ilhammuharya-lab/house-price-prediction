@@ -238,22 +238,21 @@ if options == "👨 maker profile":
         **Programming & ML**
         - Python, SQL, R, PySpark
         - Scikit-learn, TensorFlow, PyTorch
-        - LangChain, OpenAI, Azure AI
+        - LangChain, OpenAI
         
         **Data Visualization**
-        - Power BI, Tableau, Plotly
+        - Tableau, Plotly
         - Streamlit, Dash
         """)
     
     with col2:
         st.markdown("""
         **MLOps & Cloud**
-        - Docker, Kubernetes, Airflow
-        - Azure, GCP, AWS
-        - FastAPI, REST APIs
+        - Docker
+        - FastAPI
         
         **Databases & Tools**
-        - PostgreSQL, MongoDB, Cosmos DB
+        - PostgreSQL, MongoDB
         - Git, GitHub, VS Code
         """)
 
